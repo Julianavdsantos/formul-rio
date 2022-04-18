@@ -1,0 +1,154 @@
+* {
+  margin: 0;
+  padding: 0;
+
+}
+
+body {
+  background-color: blue;
+}
+
+.menu {
+  background-color: white;
+  height: 40px;
+  justify-content: space-between;
+  text-align: center;
+  display: flex;
+}
+
+a {
+  direction: none;
+  text-decoration: none;
+  position: relative;
+
+  justify-content: space-between;
+  word-spacing: 5px
+}
+
+.links {
+  position: relative;
+  word-spacing: 99px;
+  right: 10%;
+  text-align: center;
+  color: black;
+
+}
+
+.logo {
+  margin-left: 10%;
+  position: relative;
+  text-align: center;
+  font-size: 20px;
+}
+
+span {
+  color: red;
+  font-size: 25px;
+}
+
+.box {
+  position: absolute;
+  height: 650px;
+  top: 50%;
+  left: 50%;
+  width: 40%;
+  margin: 90px 0px 0px;
+  padding: 15px 40px;
+  transform: translate(-0%, -50%);
+  background-color: white;
+  box-shadow: 0 4px 8px #999;
+  border-radius: 20px;
+}
+
+.list {
+  padding: 10px;
+  margin-top: 10%;
+
+  justify-content: space-between;
+}
+
+fieldset {
+  box-sizing: 0;
+  margin-top: 40px;
+  border: 0;
+  margin-top: 40px;
+
+
+}
+
+.input_2 {
+  width: 87%;
+}
+
+input {
+
+
+  position: relative;
+  left: 30px;
+  height: 10px;
+  padding: 15px 15px;
+  margin: 20px;
+
+}
+
+.btn {
+  width: 85%;
+}
+
+.btn1 {
+  background-color: blue;
+  align-items: center;
+  text-align: center;
+  color: white;
+  cursor: pointer;
+  width: 20px x;
+}
+
+.btn1 :hover {
+  background-color: green;
+}
+
+.contato {
+  position: relative;
+  display: inline-flex;
+
+  width: 40%;
+}
+
+form {
+  height: 90%;
+}
+
+
+.list {
+  text-decoration: none;
+
+}
+
+input {
+  display: block;
+  margin-left: 5px;
+  margin-right: auto;
+}
+
+label {
+  display: block;
+  position: relative;
+  left: 30px;
+
+}
+
+.politica-de-privacidade {
+  position: relative;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.politica {
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+
+
+}
